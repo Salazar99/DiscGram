@@ -59,4 +59,4 @@ async def send():
   
 
 
-client.run('OTA2MTg0OTQ3Njk2NTQ1ODIz.YYU8fw.gCnQEt-QjVRODa5WvlMRlkbgObk')
+client.run('')
